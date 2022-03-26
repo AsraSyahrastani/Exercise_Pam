@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Todo APP</string>
+    <string name="Tampilan">Welcome in Todo App</string>
+    <string name="name">Nama</string>
+    <string name="password">Password</string>
+    <string name="bsignin">Login</string>
+    <string name="intname">Masukan Nama</string>
+    <string name="intpass">Klik Password</string>
+    <string name="judul">Selamat Datang</string>
+    <string name="taskint">Masukkan Task</string>
+    <string name="jenistaskjudul">Jenis Task,</string>
+    <string name="taskjenis">Masukan Jenis Task</string>
+    <string name="tasktime">Time Task</string>
+    <string name="tasklama">Masukan Task Lama</string>
+    <string name="judultask">Task</string>
+    <string name="nametask">Task</string>
+    <string name="TaskHasil">Hasil</string>
+    <string name="TaskJenis">Jenis Task</string>
+    <string name="JenisHasil">Hasil Jenis</string>
+    <string name="Time">Time Task</string>
+    <string name="TimeHasil">Hasil Time</string>
+    <string name="Submit">Submit</string>
+    <string name="register">Registrasi</string>
+    <string name="logout">logout</string>
+    <string name="email">Email</string>
+    <string name="repass">Re Password</string>
+    <string name="intmail">Masukan Email</string>
+    <string name="newtodo">New To Todo</string>
+    <string name="Name">Username</string>
+</resources>
